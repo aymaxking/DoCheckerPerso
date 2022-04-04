@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="834c3eb1-3aaa-42ca-960a-a5bc5569f4e2" name="Changes" comment="second">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="834c3eb1-3aaa-42ca-960a-a5bc5569f4e2" name="Changes" comment="second" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +13,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="DoChecker/feature-DOC-3" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -124,7 +125,7 @@
       <workItem from="1648829401419" duration="378000" />
       <workItem from="1648834070602" duration="4166000" />
       <workItem from="1649035687320" duration="568000" />
-      <workItem from="1649076331312" duration="2879000" />
+      <workItem from="1649076331312" duration="3209000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1648486511969</created>
@@ -161,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648835735979</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="second">
+      <created>1649079280631</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649079280631</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
